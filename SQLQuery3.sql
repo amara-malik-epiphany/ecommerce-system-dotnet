@@ -1,0 +1,2 @@
+﻿ALTER TABLE Products
+ADD ImagePath NVARCHAR(255) NULL;
